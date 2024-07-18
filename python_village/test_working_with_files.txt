@@ -1,0 +1,5 @@
+Dette er en test
+tullball
+om det fungerer
+tullball
+å printe annenhver linje
