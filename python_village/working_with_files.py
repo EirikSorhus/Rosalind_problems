@@ -2,8 +2,7 @@ def odd_line_file(file_path): # A function to read a file and then return the ev
   file = open(file_path, "r")
   lines = file.readlines()
   for i in range(0, len(lines), 2):
-    lines[i].strip()
-    print(lines[i])
+    print(lines[i].strip())
 
 
 
