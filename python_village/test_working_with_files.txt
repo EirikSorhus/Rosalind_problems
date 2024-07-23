@@ -1,5 +1,5 @@
-Dette er en test
-tullball
-om det fungerer
-tullball
-å printe annenhver linje
+This is a test
+wrong
+if  it works
+wrong
+to print every second line
