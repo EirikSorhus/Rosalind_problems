@@ -26,3 +26,10 @@ def transcription(string):
     return result
 
 print(transcription("AAATCH...TI"))
+
+
+# super simpel sulution
+
+def transcription_simple(string):
+    transcribed = string.replace("T", "U")
+    return transcribed
