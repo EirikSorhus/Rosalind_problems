@@ -1,5 +1,5 @@
 # not going to make a dictionary of a codon table manualy so using Bio.Data package
-from Bio.Data import CodonTable
+from Bio.Data import CodonTable # type: ignore
 
 def translation(rna):
     rna_codon_table = CodonTable.unambiguous_rna_by_name["Standard"]
